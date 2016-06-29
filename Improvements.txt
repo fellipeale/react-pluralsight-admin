@@ -1,0 +1,10 @@
+1) Author administration - não pode deletar autores que ja tem cursos
+2) Delete Course
+3) Hide empty course list
+4) Unsaved changes message
+5) Clien-side validation
+6) Handle 404 - add logic to mapStateToProps
+7) Show number of courses in header
+8) Pagination
+9) Sort course table - mapStateToProps de novo
+10) Revert abandoned changes
